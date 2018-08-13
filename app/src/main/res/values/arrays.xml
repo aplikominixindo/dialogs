@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="confirm_dialog_multiple">
+        <item>The Dark Knight</item>
+        <item>Saving Private Ryan</item>
+        <item>The Silence of the Lambs</item>
+        <item>The Meg</item>
+        <item>Ant-man and the Wasp</item>
+    </string-array>
+
+    <string-array name="confirm_dialog_single">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="list_view_dialog">
+        <item>Alberto</item>
+        <item>Gonzales</item>
+        <item>Mariana</item>
+        <item>Fernandez</item>
+        <item>Hugo</item>
+        <item>David</item>
+        <item>Charles</item>
+        <item>Renata</item>
+        <item>Diego</item>
+    </string-array>
+</resources>
